@@ -9,10 +9,9 @@
 ## Personal Projects
 
 ### Geometric Deep Learning based Face Autoencoder (Web)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6yJKr0SRwG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 
-
-
+[![Video Label](https://i.ytimg.com/an_webp/6yJKr0SRwG0/mqdefault_6s.webp?du=3000&sqp=CN-u2JMG&rs=AOn4CLC_HP4b5-NE_8Vo2RUGSbQfnkAaQw)](https://www.youtube.com/watch?v=6yJKr0SRwG0&ab_channel=EJShim)
 
 
 
