@@ -10,10 +10,24 @@
 
 ### Geometric Deep Learning based Face Autoencoder (Web)
   
+  
+<div align=center>
 
-[![Video Label](https://i.ytimg.com/an_webp/6yJKr0SRwG0/mqdefault_6s.webp?du=3000&sqp=CN-u2JMG&rs=AOn4CLC_HP4b5-NE_8Vo2RUGSbQfnkAaQw)](https://www.youtube.com/watch?v=6yJKr0SRwG0&ab_channel=EJShim)
+  [![Video Label](https://i.ytimg.com/an_webp/6yJKr0SRwG0/mqdefault_6s.webp?du=3000&sqp=CN-u2JMG&rs=AOn4CLC_HP4b5-NE_8Vo2RUGSbQfnkAaQw)](https://www.youtube.com/watch?v=6yJKr0SRwG0&ab_channel=EJShim)
+
+  [![Video Label](https://i.ytimg.com/an_webp/kHIeQGEgR9U/mqdefault_6s.webp?du=3000&sqp=CMeh2JMG&rs=AOn4CLABUFwzGusaIoCm7Ra-l2nfUOIOPQ)](https://www.youtube.com/watch?v=kHIeQGEgR9U&ab_channel=EJShim)
+
+</div>
 
 
+
+### Deep Learning based Intraoral Scan Data Segmentation
+
+
+### Deep Learning based Crown Generation
+
+
+### 3D Human Pose Estimation Application
 
 
 
